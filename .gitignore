@@ -271,6 +271,9 @@ coverage*.xml
 junit.xml
 test-results/
 
+# VISUAL STUDIO RESIDUS
+.vs
+
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # TEMPLATE CUSTOMIZATION & BEST PRACTICES
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
